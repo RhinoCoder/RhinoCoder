@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C# and C++
 - 💞️ I’m looking to collaborate on Developers from all around the world;
 - 📫 How to reach me on Linkedin,
-https://tr.linkedin.com/in/batuhan-bilgin-353413189 
+https://www.linkedin.com/in/abatuhanbilgin/ 
 
 <!---
 RhinoCoder/RhinoCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
