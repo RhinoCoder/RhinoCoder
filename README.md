@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Batuhan
 - 👀 I’m interested in Game Development 
-- 🌱 I’m currently using C# and Unity & Learning Multiplayer Networking Systems; Netcode for gameObjects & Mirror.
+- 🌱 I’m currently using C# and Unity & Learning Multiplayer Networking Systems; Netcode for gameObjects.
 - 📫 How to reach me on Linkedin,
 https://www.linkedin.com/in/abatuhanbilgin/ 
 An old wizard
