@@ -1,5 +1,5 @@
 <a href="https://github.com/RhinoCoder" style="display: block; text-align: center;">
-  <img src="https://i.pinimg.com/originals/44/13/9f/44139fc01aadefe935432f03b4eda770.jpg" alt="MasterHead" height="200px" width="300px" style="display: inline-block;">
+  <img src="https://i.pinimg.com/originals/44/13/9f/44139fc01aadefe935432f03b4eda770.jpg" alt="MasterHead" height="300px" width="300px" style="display: inline-block;">
 </a>
  
 
