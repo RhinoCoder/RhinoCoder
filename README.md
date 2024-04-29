@@ -2,13 +2,11 @@
 <h1 align="center">Hi 👋, I'm Batt</h1>
 <h3 align="center">Software Engineer And Computer Science Enthusiast</h3>
  
-- 🔭 I’m currently working on [Tank War 3D](N/A)
+- 🔭 I’m currently working on [Machine Learning & Deep Learning](N/A)
 
-- 🌱 I’m currently learning **C++ & Algorithms**
+- 🌱 I’m currently mastering on **C++ & Algorithms**
 
-- 👯 I’m looking to collaborate on **Software Engineers**
-
-- 💬 Ask me about **Unity, C#, C++ and CUDA **
+- 💬 Ask me about **Games, C#, C++ and CUDA **
 
 - 📫 How to reach me **abbilginn@hotmail.com**
 
