@@ -1,4 +1,6 @@
-[![MasterHead](https://i.pinimg.com/originals/44/13/9f/44139fc01aadefe935432f03b4eda770.jpg)](https://github.com/RhinoCoder){:height="200px" width="300px"}
+<a href="https://github.com/RhinoCoder">
+  <img src="https://i.pinimg.com/originals/44/13/9f/44139fc01aadefe935432f03b4eda770.jpg" alt="MasterHead" height="200px" width="300px">
+</a>
 
 <h1 align="center">Hi 👋, I'm Batt</h1>
 <h3 align="center">Software Engineer And Computer Science Enthusiast</h3>
