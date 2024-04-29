@@ -1,7 +1,9 @@
-<a href="https://github.com/RhinoCoder">
-  <img src="https://i.pinimg.com/originals/44/13/9f/44139fc01aadefe935432f03b4eda770.jpg" alt="MasterHead" height="200px" width="300px">
-  <img align ="center">
-</a>
+<div style="text-align: center;">
+  <a href="https://github.com/RhinoCoder">
+    <img src="https://i.pinimg.com/originals/44/13/9f/44139fc01aadefe935432f03b4eda770.jpg" alt="MasterHead" style="display: block; margin: auto;" height="200px" width="300px">
+  </a>
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Batt</h1>
 <h3 align="center">Software Engineer And Computer Science Enthusiast</h3>
