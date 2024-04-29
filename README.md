@@ -1,17 +1,17 @@
 [![MasterHead](https://i.pinimg.com/originals/44/13/9f/44139fc01aadefe935432f03b4eda770.jpg)](https://github.com/RhinoCoder)
 <h1 align="center">Hi 👋, I'm Batt</h1>
-<h3 align="center">Software Engineer And Game Developer</h3>
-<img align="right" alt="Coding" width = "400" src = "">
+<h3 align="center">Software Engineer And Computer Science Enthusiast</h3>
+<img align="right" alt="Coding" width = "250" src = "">
 
 <p align="left"> <img src="aa" alt="rhinocoder" /> </p>
 
 - 🔭 I’m currently working on [Tank War 3D](N/A)
 
-- 🌱 I’m currently learning **C++ - Data Structures & Algorithms**
+- 🌱 I’m currently learning **C++ & Algorithms**
 
-- 👯 I’m looking to collaborate on **Game developers**
+- 👯 I’m looking to collaborate on **Software Engineers**
 
-- 💬 Ask me about **Unity, C#**
+- 💬 Ask me about **Unity, C#, C++ and CUDA **
 
 - 📫 How to reach me **abbilginn@hotmail.com**
 
