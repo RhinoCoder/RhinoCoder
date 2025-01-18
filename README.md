@@ -41,9 +41,9 @@
     <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="deep-learning" width="40" height="40"/>
     </a>
-    <!-- Add NLP logo -->
-    <a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/NLTK.png" alt="nlp" width="40" height="40"/>
+    <!-- Add PyTorch logo -->
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
     </a>
 </p>
 
