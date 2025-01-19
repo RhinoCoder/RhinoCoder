@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently mastering on **C++ & Algorithms & NLP**
 
-- 💬 Ask me about **Games, C#, C++ and CUDA**
+- 💬 Ask me about **Games, C#, C/C++, HPC and NLP**
 
 - 📫 How to reach me **abbilginn@hotmail.com**
 
@@ -27,19 +27,15 @@
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
     </a>
-    </a>
-    <a href="https://unity.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-    </a>
-    <!-- Add C logo -->
+   </a>
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
     </a>
-    <!-- Add Deep Learning logo -->
+     </a>
     <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="deep-learning" width="40" height="40"/>
     </a>
-    <!-- Add PyTorch logo -->
+    </a>
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
     </a>
