@@ -3,6 +3,9 @@
 
 <h1 align="center">Hi 👋, I'm Batt</h1>
 <h3 align="center">Software Engineer And Computer Science Enthusiast</h3>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=RhinoCoder&color=blue" alt="Profile Views"/>
+</p>
 
 - 🔭 I’m currently working on [Machine Learning & Deep Learning](N/A)
 
@@ -42,5 +45,5 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rhinocoder&show_icons=true&locale=en&layout=compact" alt="rhinocoder" /></p>
-![Profile Views](https://komarev.com/ghpvc/?username=RhinoCoder&color=blue)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rhinocoder&show_icons=true&locale=en" alt="rhinocoder" /></p>
