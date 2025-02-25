@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Machine Learning & Deep Learning](N/A)
 
-- 🌱 I’m currently mastering on **C++ & Algorithms & NLP**
+- 🌱 I’m currently mastering on **C++ & Algorithms & Natural Language Processing**
 
 - 💬 Ask me about **Games, C#, C/C++, HPC and NLP**
 
