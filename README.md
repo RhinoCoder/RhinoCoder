@@ -29,6 +29,8 @@ __/_______\________\__\_/________\_ _/_____/_____________/_______\____/_______
                            /       |       \
                           /        |        \
                          /         |         \
+
+```
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/abatuhanbilgin/" target="blank">
@@ -61,4 +63,4 @@ __/_______\________\__\_/________\_ _/_____/_____________/_______\____/_______
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=RhinoCoder&color=blue" alt="Profile Views"/>
 </p>
-```
+
