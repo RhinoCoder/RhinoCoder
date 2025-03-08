@@ -4,7 +4,7 @@
 <h1 align="center">Hi 🐢, I'm Batu</h1> 
 <h3 align="center"> Computer Engineer And Graduate Computer Science Enthusiast</h3>
 
-- 🔭 I'm currently mastering on ** Deep Learning & Natural Language Processing **
+- 🔭 I'm currently mastering on **Deep Learning** & **Natural Language Processing**
 
 - 📫 How to reach me **abbilginn@hotmail.com**
 
@@ -29,7 +29,6 @@ __/_______\________\__\_/________\_ _/_____/_____________/_______\____/_______
                            /       |       \
                           /        |        \
                          /         |         \
-
 ```
 <h3 align="left">Connect with me:</h3>
 <p align="left">
