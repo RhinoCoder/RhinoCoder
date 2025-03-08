@@ -4,12 +4,9 @@
 <h1 align="center">Hi 👋, I'm Batt</h1>
 <h3 align="center">Software Engineer And Computer Science Enthusiast</h3>
 
+- 🔭 I’m currently mastering on ** Deep Learning & Natural Language Processing**
 
-- 🔭 I’m currently working on [Machine Learning & Deep Learning](N/A)
 
-- 🌱 I’m currently mastering on **C++ & Algorithms & Natural Language Processing**
-
-- 💬 Ask me about **Games, C#, C/C++, HPC and NLP**
 
 - 📫 How to reach me **abbilginn@hotmail.com**
 
