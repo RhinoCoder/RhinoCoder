@@ -1,8 +1,8 @@
 <a href="https://github.com/RhinoCoder" style="display: block; text-align: center;">
 </a>
 
-<h1 align="center">Hi 👋, I'm Batt</h1>
-<h3 align="center">Software Engineer And Computer Science Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Batu</h1>
+<h3 align="center"> Computer Engineer And Graduate Computer Science Enthusiast</h3>
 
 - 🔭 I’m currently mastering on ** Deep Learning & Natural Language Processing**
 
