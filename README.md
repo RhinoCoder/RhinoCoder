@@ -41,7 +41,7 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rhinocoder&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Most Used Languages" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rhinocoder&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Most Used Languages" />
 </p>
 
 <p>&nbsp;
