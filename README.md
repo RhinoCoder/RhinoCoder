@@ -45,8 +45,7 @@
 </p>
 
 <p>&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=rhinocoder&show_icons=true&locale=en&theme=discord_old_blurple
-" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rhinocoder&show_icons=true&locale=en&theme=discord_old_blurple" alt="GitHub Stats" />
 </p>
 
 <p align="center">
