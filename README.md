@@ -45,7 +45,7 @@
 </p>
 
 <p>&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=rhinocoder&show_icons=true&locale=en&theme=synthwave" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rhinocoder&show_icons=true&locale=en&theme=gruvbox" alt="GitHub Stats" />
 </p>
 
 <p align="center">
