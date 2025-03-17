@@ -51,11 +51,4 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=RhinoCoder&color=blue" alt="Profile Views"/>
 </p>
-
----
-
-<h3 align="center">🎨 ASCII Art Tribute</h3>
-<p align="center">
-    <img src="![image](https://github.com/user-attachments/assets/49c699c6-8eb3-449f-982b-b10244d4bff4)
-" alt="ASCII Art Tribute" width="600"/>
-</p>
+ 
