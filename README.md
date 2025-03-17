@@ -50,7 +50,8 @@ __/_______\________\__\_/________\_ _/_____/_____________/_______\____/_______
     </a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rhinocoder&show_icons=true&locale=en&layout=compact" alt="rhinocoder" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rhinocoder&show_icons=true&locale=en" alt="rhinocoder" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rhinocoder&show_icons=true&locale=en&theme=radical" alt="rhinocoder" />
+</p>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=RhinoCoder&color=blue" alt="Profile Views"/>
 </p>
